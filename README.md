@@ -1,0 +1,1 @@
+this project is a spot where the code, schematics, 3d models, and other files related to the Hack Club Stardance "HackPad" project are located, with my iteration named "Pad.IX" since it has nine keys. 
