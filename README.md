@@ -36,7 +36,7 @@ Thats pretty much it the firmware was pretty confusing to make so idk what to sa
 
 ## Bill Of Materials 
     - 9x cherry MX switches
-    - 9x DSA Keycaps
+    - 9x DSA Keycaps (not required)
     - 1x 0.91" 128x32 OLED Display
     - 1x Seed XIAO RP2040
     - 1x EC11 Rotary Encoder
@@ -45,7 +45,7 @@ Thats pretty much it the firmware was pretty confusing to make so idk what to sa
     - 1x 3d printed bottom housing
     - 4x M3 heatpress inserts
     - 4x M3x16mm SHCS Bolts
-    - 10x 1N4148 DO-35 Diodes.
+    - 10x 1N4148 DO-35 Diodes
 
 ## Software
     - QMK MSYS
