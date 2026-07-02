@@ -17,3 +17,6 @@ this project is a spot where the code, schematics, 3d models, and other files re
     - Hopefully QMK but IDK
     - Fusion 360
     - KiCad 9.0    
+
+
+<img width="1128" height="647" alt="image" src="https://github.com/user-attachments/assets/65c74d5b-9e46-4347-94bc-4b2e143895e4" />
