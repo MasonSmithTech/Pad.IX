@@ -1,0 +1,54 @@
+{
+    "manufacturer": "MasonSmithTech",
+    "keyboard_name": "pad_ix_new",
+    "maintainer": "MasonSmithTech",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "cols": ["GP10", "GP11", "GP7"],
+        "rows": ["GP4", "GP3", "GP2", "GP1"]
+    },
+
+    "encoder": {
+    "rotary": [
+            {
+            "pin_a": "GP9",
+            "pin_b": "GP8",
+            "resolution": 4
+            }
+        ]
+    },
+
+    "processor": "RP2040",
+    "url": "https://masonsmith.xyz",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x6741",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0},
+                {"matrix": [0, 2], "x": 2, "y": 0},
+
+                {"matrix": [1, 0], "x": 0, "y": 1},
+                {"matrix": [1, 1], "x": 1, "y": 1},
+                {"matrix": [1, 2], "x": 2, "y": 1},
+
+                {"matrix": [2, 0], "x": 0, "y": 2},
+                {"matrix": [2, 1], "x": 1, "y": 2},
+                {"matrix": [2, 2], "x": 2, "y": 2},
+
+                {"matrix": [3, 0], "x": 0, "y": 3}
+            ]
+        }
+    }
+}
