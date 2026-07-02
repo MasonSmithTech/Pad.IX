@@ -6,6 +6,18 @@ The Pad.IX is a nine key macro pad with an encoder and OLED screen, with future 
 
 <img width="942" height="699" alt="MacroPadFull_2026-Jun-22_02-24-42AM-000_CustomizedView29703276037" src="https://github.com/user-attachments/assets/3b238c0d-0ea8-46c1-a9c6-b36d914db185" />
 
+
+## PCB
+the schematic and PCB are created using KiCad and LOTS of google.
+
+schematic:
+
+<img width="442.4" height="289.1" alt="image" src="https://github.com/user-attachments/assets/ff0e64aa-0175-4522-90de-1d642aab2ad3" />
+
+PCB:
+
+<img width="442.4" height="489.9" alt="image" src="https://github.com/user-attachments/assets/4b3830df-8ccc-4f04-bd2a-d7e742e9078c" />
+
 ## Bill Of Materials 
     - 9x cherry MX switches
     - 9x DSA Keycaps
@@ -26,14 +38,3 @@ The Pad.IX is a nine key macro pad with an encoder and OLED screen, with future 
     - Onshape
     - Visual Studio Code
     - File Explorer
-
-## PCB
-the schematic and PCB are created using KiCad and LOTS of google.
-
-schematic:
-
-<img width="442.4" height="289.1" alt="image" src="https://github.com/user-attachments/assets/ff0e64aa-0175-4522-90de-1d642aab2ad3" />
-
-PCB:
-
-<img width="442.4" height="489.9" alt="image" src="https://github.com/user-attachments/assets/4b3830df-8ccc-4f04-bd2a-d7e742e9078c" />
