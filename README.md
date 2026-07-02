@@ -30,6 +30,10 @@ The Pad.IX is a nine key macro pad with an encoder and OLED screen, with future 
 ## PCB
 the schematic and PCB are created using KiCad and LOTS of google.
 
+schematic:
+
 <img width="442.4" height="289.1" alt="image" src="https://github.com/user-attachments/assets/ff0e64aa-0175-4522-90de-1d642aab2ad3" />
+
+PCB:
 
 <img width="442.4" height="489.9" alt="image" src="https://github.com/user-attachments/assets/4b3830df-8ccc-4f04-bd2a-d7e742e9078c" />
