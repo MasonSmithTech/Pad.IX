@@ -6,6 +6,9 @@ The Pad.IX is a nine key macro pad with an encoder and OLED screen, with future 
 
 <img width="942" height="699" alt="MacroPadFull_2026-Jun-22_02-24-42AM-000_CustomizedView29703276037" src="https://github.com/user-attachments/assets/3b238c0d-0ea8-46c1-a9c6-b36d914db185" />
 
+## CAD
+The case was modeled inside of OnShape (A new tool for me) and renders (as seen above) were created inside of fusion 360. The case features a top piece which holds the switches and pcb, and a bottom piece to protect the electronics, with the two parts being bolted together with M3 bolts and heat press inserts. 
+The case was somewhat influenced by the OZO Keyboards Skeleton Keyboard Case, but mainly it is just an interesting looking open shell design that appeared in my brain on the bus home from school!
 
 ## PCB
 the schematic and PCB are created using KiCad and LOTS of google.
