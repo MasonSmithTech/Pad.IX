@@ -1,12 +1,10 @@
-# pad_ix_new
+# Pad.IX Firmware
 
-![pad_ix_new](imgur.com image replace me!)
-
-*A short description of the keyboard/project*
+A 9 key macro pad with an OLED screen and a knob
 
 * Keyboard Maintainer: [MasonSmithTech](https://github.com/MasonSmithTech)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: *RP2040*
+* Hardware Availability: *Amazon, Ebay, ALiExpress*
 
 Make example for this keyboard (after setting up your build environment):
 
