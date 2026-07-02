@@ -24,6 +24,16 @@ PCB:
 
 <img width="442.4" height="489.9" alt="image" src="https://github.com/user-attachments/assets/4b3830df-8ccc-4f04-bd2a-d7e742e9078c" />
 
+## Firmware
+This hackpad uses QMK firmware for everything.
+
+the rotary encoder changes volume. press to mute
+The 9 keys currently act as ma number pad
+The OLED is a status display of sorts (mainly says "Pad.IX" tho)
+Hopefully VIA support will be added once I actually build the thing irl
+
+Thats pretty much it the firmware was pretty confusing to make so idk what to say
+
 ## Bill Of Materials 
     - 9x cherry MX switches
     - 9x DSA Keycaps
