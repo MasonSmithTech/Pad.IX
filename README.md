@@ -1,7 +1,8 @@
 # Pad.IX, a custom 9 key macropad
 
 this project is a spot where the code, schematics, 3d models, and other files related to the Hack Club Stardance "HackPad" project are located, with my iteration named "Pad.IX" since it has nine keys. 
-<img width="2048" height="1536" alt="MacroPadFull_2026-Jun-22_02-24-42AM-000_CustomizedView29703276037" src="https://github.com/user-attachments/assets/0f0cfcf7-942e-4d59-bbe1-041a4a2e3535" />
+<img width="942" height="699" alt="MacroPadFull_2026-Jun-22_02-24-42AM-000_CustomizedView29703276037" src="https://github.com/user-attachments/assets/3b238c0d-0ea8-46c1-a9c6-b36d914db185" />
+
 
 ## Bill Of Materials 
     - 9x cherry MX switches
