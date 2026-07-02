@@ -54,3 +54,7 @@ Thats pretty much it the firmware was pretty confusing to make so idk what to sa
     - Onshape
     - Visual Studio Code
     - File Explorer
+
+## Author's Note
+Thanks to the people at Hack Club this was an amazing experience! This is my first Hack Club build but I am looking forward to doing so much more in the future!
+Also thanks to google cuz this was VERY confusing!
